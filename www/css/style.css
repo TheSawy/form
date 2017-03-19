@@ -1,0 +1,66 @@
+ion-content {
+    height: 100%;
+    background-color: #f5f8fa;
+}
+
+/* Background color */
+.form-section {
+  width: 500px;
+  margin: 0 auto;
+}
+
+.form-section form {
+    padding: 30px;
+}
+
+/* form customaizations */
+.form-section form > input {
+    display: block;
+    margin-bottom: 20px;
+    width: 100%;
+    padding: 20px;
+    border-radius: 5px;
+    background-color: #fff;
+    border: 1px solid rgba(0, 0, 0, 0.15);
+}
+
+
+
+/* button customaizations */
+ .button {
+    height: 40px;
+    display: block;
+    background-color: #01122d;
+    color: white;
+    font-size: 1.4em;
+    font-weight: bold;
+    text-align: center;
+    width: 200px;
+    transition: all .5s ease-in-out;
+    padding: 0;
+    margin: 0 auto;
+}
+
+.button:hover {
+    border-color: #0072ae;
+    color: #0072ae;
+    background: #FFF;
+}
+
+/* media queries */
+@media screen and (max-width: 1250px) {
+    .form-section {
+      width: 100%;
+    }
+
+    .form-display {
+      width: 85%;
+      margin: auto ;
+      margin-bottom: 20px;
+    }
+
+    .button {
+      width: 65%;
+      font-size: 1em;
+    }
+}
