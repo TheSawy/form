@@ -1,17 +1,23 @@
-# it's an early training on using bootstrap
+# It's an IONIC simple project
 
 
 - Author: Ahmed Elsawy.
 
-- How to install: download the zip file, unzip it and open the index.html with your browser.
+- How to install:   - for Web: download the zip file, unzip it and open the index.html with your browser.
+                    - Android : https://drive.google.com/open?id=0B18z4w2PliO5MVpmUU5hYjdYalU 
+
+                    there is an apk file you can install it from 
 
 
 
 - Required dependencies: 
 
-                        - BootStrap
+                        - Ionic
                         - FontAwesome library. 
-                        - normalize.css reset settings 
+                        - normalize.css reset settings
+                        - Angular
+                        - cordova
+                        - Json
 
 
 
